@@ -1,1 +1,3 @@
 Contenu inital de feature.txt
+Deuxième modification de feature.txt
+Troisième modification de feature.txt
